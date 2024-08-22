@@ -1,0 +1,18 @@
+/* menu Icon用開始 */
+.menuIcon {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 32px;
+  height: 32px;
+}
+
+.menuIcon:hover {
+  background-color: #ccc;
+  border-radius: 50%;
+}
+
+/* menu Icon用終了*/
+
+
+
